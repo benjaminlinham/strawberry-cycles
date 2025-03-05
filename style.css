@@ -43,3 +43,9 @@
     color: #ddd;
   }
   
+  /* Main Title */
+
+  #main-title {
+    text-align: center;
+    margin-top: 25px; /* Adjust top margin as needed */ 
+  }
